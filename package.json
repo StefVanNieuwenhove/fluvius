@@ -1,0 +1,31 @@
+{
+  "name": "sdp2122-g08",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "npx env-cmd -f .env.test jest",
+    "test:coverage": "yarn test --coverage",
+    "start": "npx env-cmd nodemon src/index.js"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "@koa/router": "^10.1.1",
+    "argon2": "^0.28.5",
+    "config": "^3.3.7",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt": "^0.2.0",
+    "knex": "^2.0.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "mysql2": "^2.3.3",
+    "node-emoji": "^1.11.0",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.3",
+    "winston": "^3.6.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
