@@ -1,0 +1,17 @@
+[
+    {
+        "ID":1,
+        "NAAM":"Test",
+        "URLICOON":"https://cdn-icons-png.flaticon.com/512/2427/2427589.png"
+    },
+    {
+        "ID":2,
+        "NAAM":"Test",
+        "URLICOON":"https://cdn-icons-png.flaticon.com/512/3310/3310624.png"
+    },
+    {
+        "ID":3,
+        "NAAM":"Test",
+        "URLICOON":"https://cdn-icons-png.flaticon.com/512/921/921356.png"
+    }
+    ]

@@ -1,0 +1,8 @@
+{
+  "token_key": "auth_token",
+  "base_url": "http://localhost:9000/api/",
+  "gebruiker_rol": "gebruiker_rol",
+  "gebruiker_ID": "gebruiker_ID",
+  "template_gebruiker": "template_gebruiker",
+  "template_rol": "template_rol"
+}
